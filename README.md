@@ -1,0 +1,1 @@
+The objective of this classification task is to develop a machine learning model that can predict the price range of a mobile phone based on its various attributes. The dataset can be used to train and evaluate the model's performance in accurately classifying mobile prices.
